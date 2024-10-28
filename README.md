@@ -31,7 +31,7 @@ It includes the following charateristics in the viualization:
 
 - In addition to the Part-1 visualization, plotted a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. Pulled the data on tectonic plates from https://github.com/fraxen/tectonicplatesLinks and used D3 library to import the json data.
 
-It includes the following caharacteristics in the visualization:
+It includes the following characteristics in the visualization:
 
 - plotted the tectonic plates dataset on the map in addition to the earthquakes.
 
