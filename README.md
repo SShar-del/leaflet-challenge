@@ -15,7 +15,7 @@ Part 2: Gather and Plot More Data (Optional)
 
 ## Features of Part-1 Earthquake visualization
 
-- Got the JSON representation  of the dataset - "All Earthquakes from the Past 7 Days") by using the URL of this JSON to pull in the data for the visualization - "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"; Used D3 library to get the json data from the url.
+- Got the JSON representation  of the dataset - "All Earthquakes from the Past 7 Days" by using the URL of this JSON to pull in the data for the visualization - "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"; Used D3 library to get the json data from the url.
 
 - Using Leaflet, created a map that plots all the earthquakes from the dataset based on their longitude and latitude on a grayscale tilelayer. 
 It includes the following charateristics in the viualization:
